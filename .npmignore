@@ -1,0 +1,13 @@
+atlassian-ide-plugin.xml
+node_modules
+coverage.html
+lib-cov
+coverage
+
+.*
+
+config/runtime.json
+
+apiary.out.html
+
+config/oo.yml
