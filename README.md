@@ -4,7 +4,7 @@
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [api-docs-image]] [api-docs] | [![i4] [contributing-image]] [contributing] | [![i5] [about-image]] [about] |
 
-<img src="http://i.imgur.com/Kx6l8s3.png" alt="joola.io logo" title="joola.io" align="right" />
+<img src="https://joo.la/img/logo-profile.png" alt="joola.io logo" title="joola.io" align="right" />
 
 [joola.io][22] is a real-time data analytics and visualization framework.
 **joola.io.datastore-template** is a joola.io plugin to provide template based data store for its operation.
