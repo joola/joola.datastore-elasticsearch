@@ -22,9 +22,6 @@ Then open your joola configuration and add something along these lines:
 {
   "store": {
     "datastore": {
-      "mongodb": {
-        "enabled": false
-      },
       "elasticsearch": {
         "host": "localhost",
         "log": "trace"
@@ -38,6 +35,7 @@ You're all set to go. to make sure it works, please run a node and monitor the l
 
 
 ### Technical Docs
+TBD
 
 ### Contributing
 We would love to get your help! We have outlined a simple [Contribution Policy][18] to support a transparent and easy merging
