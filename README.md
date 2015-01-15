@@ -7,7 +7,7 @@
 <img src="https://joo.la/img/logo-profile.png" alt="joola logo" title="joola" align="right" />
 
 [joola][22] is a real-time data analytics and visualization framework.
-**joola.datastore-template** is a joola plugin to provide template based data store for its operation.
+**joola.datastore-elasticsearch** is a joola plugin to provide ElasticSearch based data store for its operation.
 
 ### Setup Guide
 
@@ -60,10 +60,10 @@ Contacting us is easy, ping us on one of these:
 Copyright (c) 2012-2014 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24] for details.
 
 
-[1]: https://coveralls.io/repos/joola/joola.datastore-template/badge.png?branch=develop
-[2]: https://coveralls.io/r/joola/joola.datastore-template?branch=develop
-[3]: https://travis-ci.org/joola/joola.datastore-template.png?branch=develop
-[4]: https://travis-ci.org/joola/joola.datastore-template?branch=develop
+[1]: https://coveralls.io/repos/joola/joola.datastore-elasticsearch/badge.png?branch=develop
+[2]: https://coveralls.io/r/joola/joola.datastore-elasticsearch?branch=develop
+[3]: https://travis-ci.org/joola/joola.datastore-elasticsearch.png?branch=develop
+[4]: https://travis-ci.org/joola/joola.datastore-elasticsearch?branch=develop
 [14]: https://github.com/joola/joola
 [15]: http://nodejs.org
 [16]: http://serverfault.com/
