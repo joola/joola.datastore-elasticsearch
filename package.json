@@ -7,7 +7,7 @@
   "engine": "node >= 0.10.x",
   "private": false,
   "scripts":{
-    "prepublish": "npm run publish:do",
+    "publish": "npm run publish:do",
     "publish:do": "npm shrinkwrap && npm publish && rm npm-shrinkwrap.json"
   },
   "repository": {
