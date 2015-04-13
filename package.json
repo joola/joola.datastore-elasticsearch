@@ -6,6 +6,10 @@
   "description": "joola ElasticSearch Datastore",
   "engine": "node >= 0.10.x",
   "private": false,
+  "scripts":{
+    "prepublish": "npm run publish:do",
+    "publish:do": "npm shrinkwrap && npm publish && rm npm-shrinkwrap.json"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/joola/joola.datastore-elasticsearch.git"
