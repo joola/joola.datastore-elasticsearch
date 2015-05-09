@@ -1,14 +1,14 @@
 {
   "name": "joola.datastore-elasticsearch",
   "preferGlobal": false,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Joola <info@joo.la>",
   "description": "joola ElasticSearch Datastore",
   "engine": "node >= 0.10.x",
   "private": false,
   "scripts":{
-    "publish": "npm run publish:do",
-    "publish:do": "npm shrinkwrap && npm publish && rm npm-shrinkwrap.json"
+    "prepublish":"npm shrinkwrap",
+    "postpublish": "rm npm-shrinkwrap.json"
   },
   "repository": {
     "type": "git",
