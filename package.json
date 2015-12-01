@@ -1,7 +1,7 @@
 {
   "name": "joola.datastore-elasticsearch",
   "preferGlobal": false,
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Joola <info@joo.la>",
   "description": "joola ElasticSearch Datastore",
   "engine": "node >= 0.12.x",
